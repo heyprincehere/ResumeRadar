@@ -111,6 +111,9 @@ Use the tool to optimize your resume before applying.
 Future Improvements
 Add smarter text preprocessing (remove punctuation, handle synonyms).
 
+**Conatact**
+princejaniya6@gmail.com
+
 Use TF-IDF or NLP for better matching.
 
 Add user authentication and saving resumes/jobs.
